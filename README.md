@@ -141,6 +141,9 @@ How long should your answers be? Think of it this way: we're asking because we w
 # 5th Year NeuroScience 
 
 ## Why did I enroll in this course ?
+Ive heard a lot of postive things about you as a profressor from previous students and academic advisor Erin Sparks.
+I also took my first cmputer programing course last year which got me interested to learn more about programing.
+I wanted to see how Neuroscience and data science work together.
 
 ## what got me Interested in Neuroscice?
 
