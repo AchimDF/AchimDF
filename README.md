@@ -146,5 +146,7 @@ I also took my first cmputer programing course last year which got me interested
 I wanted to see how Neuroscience and data science work together.
 
 ## what got me Interested in Neuroscice?
+The brain was something that was never realy emphasized in my science classes in high school and I was really interested in the brain anatomy portion. 
+As I progress throught this degree, I've come to realize the many other aspects of Neuroscience that are connected to it and my interets in those as well.
 
 ## what are my career/Future PLans?
