@@ -1,7 +1,7 @@
 # Achim Duerr - Farrell 
 
 ## Photo of me 
-<img src="" width=200"/>
+<img src="https://github.com/AchimDF/AchimDF/blob/7a22f86633df24ad3f0a1d50f83f8de9e332e3bb/DSC_0072.JPEG" width=200"/>
 
 # 5th Year NeuroScience 
 
