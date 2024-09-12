@@ -150,3 +150,5 @@ The brain was something that was never realy emphasized in my science classes in
 As I progress throught this degree, I've come to realize the many other aspects of Neuroscience that are connected to it and my interets in those as well.
 
 ## what are my career/Future PLans?
+I would like to persue a career in medicine and attended a medical school here in Canada or abroad.
+Other than work and a career I would like to travel when I have graudated 
